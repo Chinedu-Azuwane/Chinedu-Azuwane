@@ -1,5 +1,7 @@
 
 ## 🌐 Socials:
+![Static Badge](https://img.shields.io/badge/Telegram-white?style=social&logo=Telegram&link=Https%3A%2F%2Ft.me%2FProf_Astra)
+
 [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@profastral) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chineduazuwane51@gmail.com) 
 
 # 💻 Tech Stack:
